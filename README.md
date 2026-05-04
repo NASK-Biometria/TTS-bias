@@ -24,3 +24,9 @@ number of participants:
 age distribution:
 sex distribution:
 educational badkground:
+
+
+## Change log
+v1.0 (May 2026) - release of Polish and English data and demographic data of social study participants
+
+## Cite us
